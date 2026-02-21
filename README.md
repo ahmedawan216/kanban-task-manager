@@ -3,7 +3,7 @@
 A streamlined, functional task management dashboard built with **Vanilla JavaScript**. This project focuses on efficient workflow visualization using native browser APIs.
 
 ## 🚀 Live Demo
-Check out the live application here: [Your GitHub Pages Link]
+Check out the live application here: https://ahmedawan216.github.io/kanban-task-manager/
 
 ## 🌟 Features
 * Interactive Drag & Drop: Move tasks seamlessly between "To Do," "In Progress," and "Done" columns.
